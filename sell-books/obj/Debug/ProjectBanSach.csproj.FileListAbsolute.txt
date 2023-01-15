@@ -1,0 +1,10 @@
+E:\C# project\ProjectBanSach\bin\Debug\ProjectBanSach.exe.config
+E:\C# project\ProjectBanSach\bin\Debug\ProjectBanSach.exe
+E:\C# project\ProjectBanSach\bin\Debug\ProjectBanSach.pdb
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.csproj.AssemblyReference.cache
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.Form1.resources
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.Properties.Resources.resources
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.csproj.GenerateResource.cache
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.csproj.CoreCompileInputs.cache
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.exe
+E:\C# project\ProjectBanSach\obj\Debug\ProjectBanSach.pdb
