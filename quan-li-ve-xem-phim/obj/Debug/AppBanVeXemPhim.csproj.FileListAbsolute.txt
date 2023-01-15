@@ -1,0 +1,17 @@
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\AppBanVeXemPhim.exe.config
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\AppBanVeXemPhim.exe
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\AppBanVeXemPhim.pdb
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.csproj.AssemblyReference.cache
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.Form1.resources
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.Properties.Resources.resources
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.csproj.GenerateResource.cache
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.csproj.CoreCompileInputs.cache
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.exe
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.pdb
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\EntityFramework.dll
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\EntityFramework.xml
+E:\C# project\SangThu5\AppBanVeXemPhim\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.csproj.CopyComplete
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.PresentationTier.frmLogin.resources
+E:\C# project\SangThu5\AppBanVeXemPhim\obj\Debug\AppBanVeXemPhim.PresentationTier.frmDangKy.resources
