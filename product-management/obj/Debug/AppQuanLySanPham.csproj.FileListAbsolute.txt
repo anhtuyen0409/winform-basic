@@ -1,0 +1,11 @@
+E:\C# project\AppTinhTienBanSach\bin\Debug\AppTinhTienBanSach.exe.config
+E:\C# project\AppTinhTienBanSach\bin\Debug\AppTinhTienBanSach.exe
+E:\C# project\AppTinhTienBanSach\bin\Debug\AppTinhTienBanSach.pdb
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppQuanLySanPham.csproj.AssemblyReference.cache
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppTinhTienBanSach.Properties.Resources.resources
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppQuanLySanPham.csproj.GenerateResource.cache
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppQuanLySanPham.csproj.CoreCompileInputs.cache
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppTinhTienBanSach.exe
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppTinhTienBanSach.pdb
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppTinhTienBanSach.frmQuanLySanPham.resources
+E:\C# project\AppTinhTienBanSach\obj\Debug\AppTinhTienBanSach.frmQuanLyDanhMuc.resources
