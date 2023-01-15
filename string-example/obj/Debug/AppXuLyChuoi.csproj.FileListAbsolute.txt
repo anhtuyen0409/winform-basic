@@ -1,0 +1,10 @@
+E:\C# project\AppXuLyChuoi\bin\Debug\AppXuLyChuoi.exe.config
+E:\C# project\AppXuLyChuoi\bin\Debug\AppXuLyChuoi.exe
+E:\C# project\AppXuLyChuoi\bin\Debug\AppXuLyChuoi.pdb
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.csproj.AssemblyReference.cache
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.Form1.resources
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.Properties.Resources.resources
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.csproj.GenerateResource.cache
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.csproj.CoreCompileInputs.cache
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.exe
+E:\C# project\AppXuLyChuoi\obj\Debug\AppXuLyChuoi.pdb
